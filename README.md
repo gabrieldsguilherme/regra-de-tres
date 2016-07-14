@@ -1,0 +1,1 @@
+This is a Cordova Application that calculates some math exercises.
