@@ -1,6 +1,7 @@
 html {
 	font-family: Verdana;
 	background-color: #eeeeee;
+	font-size: 16px;
 }
 
 #nav-topo {
@@ -16,6 +17,10 @@ html {
 
 #form-input-valores {
 	padding-top: 30px;
+}
+
+.equivalencia {
+	padding-top: 10px !important;
 }
 
 .input-field label, .input-field input, .input-field input[type=number]:focus + label {
